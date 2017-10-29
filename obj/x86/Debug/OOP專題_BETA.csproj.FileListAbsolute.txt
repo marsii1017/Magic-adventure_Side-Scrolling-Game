@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\OOP專題_BETA\OOP專題_BETA\obj\x86\Debug\OOP專題_BETA.Form1.resources
+C:\Users\user\Desktop\OOP專題_BETA\OOP專題_BETA\obj\x86\Debug\OOP專題_BETA.Properties.Resources.resources
+C:\Users\user\Desktop\OOP專題_BETA\OOP專題_BETA\obj\x86\Debug\OOP專題_BETA.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\OOP專題_BETA\OOP專題_BETA\bin\Debug\OOP專題_BETA.exe
+C:\Users\user\Desktop\OOP專題_BETA\OOP專題_BETA\bin\Debug\OOP專題_BETA.pdb
+C:\Users\user\Desktop\OOP專題_BETA\OOP專題_BETA\obj\x86\Debug\OOP專題_BETA.exe
+C:\Users\user\Desktop\OOP專題_BETA\OOP專題_BETA\obj\x86\Debug\OOP專題_BETA.pdb
+C:\Users\user\Desktop\OOP專題_BETA\OOP專題_BETA\obj\x86\Debug\OOP專題_BETA.csprojResolveAssemblyReference.cache
