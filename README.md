@@ -10,11 +10,13 @@ Language:Visual C++ </pre>
 打倒怪物會獲得經驗值和掉落物。當經驗值條集滿時可以升等，改變自機的彈幕類型，
 並且在戰鬥中會遇到不同屬性的區域，會改變子彈的路徑(如有浮力區、引力區、反彈區等等)。
 </pre>
-New_version_UI:
+#New_version_UI:
+
 ![image](https://github.com/marsii1017/Magic-adventure_Side-Scrolling-Game/blob/master/Resources/magic_adventure.PNG)
 
 Old_version_UI_:
- <img src="https://github.com/marsii1017/Magic-adventure_Side-Scrolling-Game/blob/master/Resources/UI-1.jpg" width="500"> 
+
+<img src="https://github.com/marsii1017/Magic-adventure_Side-Scrolling-Game/blob/master/Resources/UI-1.jpg" width="500"> 
 
 # Architecture:
 ![image](https://github.com/marsii1017/Magic-adventure_Side-Scrolling-Game/blob/master/Resources/Architecture%20of%20project.PNG)
