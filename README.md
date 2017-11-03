@@ -11,7 +11,11 @@ Language:Visual C++ </pre>
 並且在戰鬥中會遇到不同屬性的區域，會改變子彈的路徑(如有浮力區、引力區、反彈區等等)。
 </pre>
 ![image](https://github.com/marsii1017/Magic-adventure_Side-Scrolling-Game/blob/master/Resources/magic_adventure.PNG)
-![image](https://github.com/marsii1017/Magic-adventure_Side-Scrolling-Game/blob/master/Resources/UI-1.jpg =150x50)
+![image](https://github.com/marsii1017/Magic-adventure_Side-Scrolling-Game/blob/master/Resources/UI-1.jpg ){
+  width: 70%;
+  border: none;
+  background: none;
+}
 # Architecture:
 ![image](https://github.com/marsii1017/Magic-adventure_Side-Scrolling-Game/blob/master/Resources/Architecture%20of%20project.PNG)
 
