@@ -14,7 +14,7 @@ Language:Visual C++ </pre>
 
 ![image](https://github.com/marsii1017/Magic-adventure_Side-Scrolling-Game/blob/master/Resources/magic_adventure.PNG)
 
-Old_version_UI_:
+#Old_version_UI_:
 
 <img src="https://github.com/marsii1017/Magic-adventure_Side-Scrolling-Game/blob/master/Resources/UI-1.jpg" width="500"> 
 
